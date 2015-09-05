@@ -2,10 +2,11 @@
 Open source project for developing smart Vertical Axis Wind Turbines (VAWT)
 
 # I vs We
-Everyone is invited to collaborate in this project that we hope will help to democratize the use of renewable energy from the wind, and to help strenghen the open source philosophy among other engineering disciplines.
+We hope this project will help to democratize the use of renewable energy from the wind, and to help strenghen the open source philosophy among other engineering disciplines.
 
 # Looking for partners
-
+Everyone is invited to colaborate in this project.
+Since we're in the first development stage we need contributors with mechanical, electronics, design, engineering skills.
 
 # Techs
 * 2D and 3D modeling
