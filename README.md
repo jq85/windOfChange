@@ -1,7 +1,7 @@
 # windOfChange
 Open source project for developing smart Vertical Axis Wind Turbines (VAWT)
 
-# I and We
+# We and I
 We hope this project will help to democratize the use of renewable energy from the wind, and to help strenghen the open source philosophy among other engineering disciplines.
 
 # Looking for partners
